@@ -36,35 +36,29 @@ const Navbar: React.FC = () => {
             className="block text-white py-2 px-4 hover:text-gray-400 md:py-0"
             onClick={closeMenu}
           >
-            Inicio
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
+           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Inicio
           </a>
           <a
             href="#plans"
             className="block text-white py-2 px-4 hover:text-gray-400 md:py-0"
             onClick={closeMenu}
           >
-            Nuestros planes
-          </a>
-          <a
-            href="#why-us"
-            className="block text-white py-2 px-4 hover:text-gray-400 md:py-0"
-            onClick={closeMenu}
-          >
-            Por qué elegirnos
+            &nbsp;&nbsp;&nbsp;Nuestros planes
           </a>
           <a
             href="#reviews"
             className="block text-white py-2 px-4 hover:text-gray-400 md:py-0"
             onClick={closeMenu}
           >
-            Reseñas
+            &nbsp;&nbsp;&nbsp;Reseñas
           </a>
           <a
             href="#contact"
             className="block text-white py-2 px-4 hover:text-gray-400 md:py-0"
             onClick={closeMenu}
           >
-            Contáctanos
+            &nbsp;&nbsp;&nbsp;Contáctanos
           </a>
         </div>
       </div>
