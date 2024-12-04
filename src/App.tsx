@@ -13,7 +13,6 @@ const App: React.FC = () => {
       <Hero />
       <Slidert></Slidert>
       <Plans />
-      <WhyUs />
       <Reviews />
       <Contact />
     </div>

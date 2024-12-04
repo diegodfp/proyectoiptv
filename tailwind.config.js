@@ -4,8 +4,14 @@ module.exports = {
     "./src/**/*.{html,js,jsx,ts,tsx}",
   ],
   theme: {
-    extend: {},
+    extend: {
+      fontFamily: {
+        sans: ['Poppins', 'sans-serif'],
+      },
+      colors: {
+        primary: '#FF0000', // Rojo como color principal
+      },
+    },
   },
   plugins: [],
 }
-
